@@ -5,8 +5,8 @@ Java Program that you can Register,Login,Chat,and Send Messages to your Friends(
 # Requirements:
 
 **1)** You need mysql, you can use xampp, or any Program that you can Create an Mysql Server.
-If you use xampp, just copy this database(FILES) to your xampp mysql Folder
-you need to have Database "test" with this 4 tables inside
+If you use xampp, just copy this database(FILES) to your xampp mysql Folder.
+At the End you need to have Database "test" with this 4 tables inside
 
 Download Link : http://www.mediafire.com/file/1jgyenh00lhds8s/test.rar/file
 
