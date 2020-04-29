@@ -13,12 +13,13 @@ Download Link : http://www.mediafire.com/file/1jgyenh00lhds8s/test.rar/file
 paste this files in C:\xampp\mysql\data\test
 
 **2)** You need to have the Libraries for java.sql;
+Search a video on Youtube to input them on your Eclipse.
 
 # More INFO
 
 this project has completed on Eclipse.
 
-Search a video on Youtube to input them on your Eclipse.
+
 
 # Video
 https://www.youtube.com/watch?v=1Wl5QFe25bY
