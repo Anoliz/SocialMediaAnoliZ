@@ -2,10 +2,9 @@
 Java Program that you can Register,Login,Chat,and Send Messages to your Friends(THIS INCLUDES LIVE REFRESH)
 
 
-#Setting up the environment
+# Requirements:
 
-
-You need mysql, you can use xampp, or any Program that you can Create an Mysql Server.
+**1)** You need mysql, you can use xampp, or any Program that you can Create an Mysql Server.
 If you use xampp, just copy this database(FILES) to your xampp mysql Folder
 you need to have Database "test" with this 4 tables inside
 
@@ -13,11 +12,12 @@ Download Link : http://www.mediafire.com/file/1jgyenh00lhds8s/test.rar/file
 
 paste this files in C:\xampp\mysql\data\test
 
+**2)** You need to have the Libraries for java.sql;
 
-#More INFO
+# More INFO
 
-this project has completed in Eclipse.
-You need to have the Libraries for java.sql;
+this project has completed on Eclipse.
+
 Search a video on Youtube to input them on your Eclipse.
 
-#Creator : https://github.com/Anoliz
+# Creator : https://github.com/Anoliz
