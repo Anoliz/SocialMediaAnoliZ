@@ -1,5 +1,5 @@
 # Your Social Media Test Program With JAVA!
-Java Program that you can Register,Login,Chat,and Send Messages to your Friends(THIS INCLUDES LIVE REFRESH)
+Java Program that you can Register,Login,Chat,and Send Messages with your Friends(THIS INCLUDES LIVE REFRESH)
 
 
 # Requirements:
